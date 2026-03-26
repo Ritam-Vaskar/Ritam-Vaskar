@@ -9,26 +9,25 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritamvaskar0@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ritam-Vaskar&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Ritam-Vaskar)
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```ts
-const ritam: Developer = {
-  name:     "Ritam Vaskar",
-  role:     "Full Stack Web Developer",
-  passion:  ["Clean Code", "Elegant UI/UX", "Scalable Systems"],
-  learning: ["System Design", "Deep Learning", "Cloud Architecture"],
-  funFact:  "I turn coffee ☕ into code — one bug at a time 🐛",
-  contact:  "ritamvaskar0@gmail.com",
-};
-```
-
 > *"Whether it's debugging complex code or designing smooth user interfaces, I enjoy solving problems and turning ideas into reality."*
-
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ritam-Vaskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=false"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritam-Vaskar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=Ritam-Vaskar&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam-Vaskar&bg_color=0d1117&color=7c3aed&line=5b21b6&point=a78bfa&area=true&hide_border=true"/>
+</div>
+---
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -56,24 +55,6 @@ const ritam: Developer = {
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ritam-Vaskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=false"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritam-Vaskar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&layout=compact&langs_count=8"/>
-</div>
-
-<div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Ritam-Vaskar&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam-Vaskar&bg_color=0d1117&color=7c3aed&line=5b21b6&point=a78bfa&area=true&hide_border=true"/>
-</div>
-
 [![](https://visitcount.itsvg.in/api?id=Ritam-Vaskar&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:1a1a4e,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
