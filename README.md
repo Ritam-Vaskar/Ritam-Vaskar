@@ -9,8 +9,10 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritamvaskar0@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ritam-Vaskar&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Ritam-Vaskar)
 </div>
+
 > *"Whether it's debugging complex code or designing smooth user interfaces, I enjoy solving problems and turning ideas into reality."*
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
