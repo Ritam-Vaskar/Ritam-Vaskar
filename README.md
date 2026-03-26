@@ -30,6 +30,7 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam-Vaskar&bg_color=0d1117&color=7c3aed&line=5b21b6&point=a78bfa&area=true&hide_border=true"/>
 </div>
 ---
+
 ## 🛠️ Tech Stack
 
 **Languages**
