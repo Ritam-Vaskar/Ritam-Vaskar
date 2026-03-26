@@ -68,36 +68,11 @@ const ritam: Developer = {
 <img width="70%" src="https://streak-stats.demolab.com?user=Ritam-Vaskar&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ritam-Vaskar&theme=nord&no-frame=true&no-bg=false&margin-w=6&row=1"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam-Vaskar&bg_color=0d1117&color=7c3aed&line=5b21b6&point=a78bfa&area=true&hide_border=true"/>
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritam-vaskar-50627527a)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritamvaskar0@gmail.com)
-
-</div>
-
----
-
-<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Ritam-Vaskar&icon=5&color=7)](https://visitcount.itsvg.in)
 
