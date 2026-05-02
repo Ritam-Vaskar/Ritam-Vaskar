@@ -11,10 +11,11 @@
 </div>
 
 > *"Whether it's debugging complex code or designing smooth user interfaces, I enjoy solving problems and turning ideas into reality."*
-
-<a herf="ritamvaskar.tech">My Portfolio<a>
 ---
 
+Check out my portfolio: https://ritamvaskar.tech
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
